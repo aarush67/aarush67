@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aarush67)](https://git.io/streak-stats)
 
-https://api.githubtrends.io/user/svg/aarush67/langs?time_range=one_year&theme=dark
+![Top Languages](https://api.githubtrends.io/user/svg/aarush67/langs?time_range=one_year&theme=dark)
