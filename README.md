@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Aarush67 GitHub stats](https://github-readme-stats.vercel.app/api?username=aarush67)](https://github.com/aarush67/aarush67)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aarush67)](https://git.io/streak-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aarush67/langs)](https://githubtrends.io)
