@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aarush67)](https://git.io/streak-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aarush67/langs)](https://githubtrends.io)
+https://api.githubtrends.io/user/svg/aarush67/langs?time_range=one_year&theme=dark
