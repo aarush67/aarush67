@@ -21,3 +21,15 @@ Here are some ideas to get you started:
 ![Top Languages](https://api.githubtrends.io/user/svg/aarush67/langs?time_range=one_year&theme=dark)
 
 ![Top Repositories](https://api.githubtrends.io/user/svg/aarush67/repos?time_range=one_year&include_private=True&theme=dark)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarush67&theme=github_dark)
+
+![Top Languages by Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarush67&theme=github_dark)
+
+![Top Languages by Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarush67&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarush67&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aarush67&theme=github_dark&utcOffset=0)
+
+
