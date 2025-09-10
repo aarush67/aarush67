@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aarush67&theme=github_dark&utcOffset=0)
 
+![aaursh67's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarush67&show_icons=true&theme=transparent)
+
 
